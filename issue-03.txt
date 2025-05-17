@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo de prueba para el issue-03. ^^
+=======
+Este es un archivo para el issue #3 "Inscripción de participantes a eventos"
+>>>>>>> 6a121a27b26ddecc99c2cbd47727b3ae33278acf
