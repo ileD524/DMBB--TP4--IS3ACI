@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException, Depends
 from sqlmodel import SQLModel, Session, create_engine
-from models.evento import Evento
+from api.models.evento import Evento
+
 import os
 from dotenv import load_dotenv
 
